@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 codigo bacan 
 hola nuevo
+=======
+codigo bacan
+otra linea de código bacan
+>>>>>>> c9be704c4a3c863fcb7b8bb8edf566412541257a
